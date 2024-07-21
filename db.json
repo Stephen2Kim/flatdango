@@ -1,0 +1,65 @@
+{
+    "films": [
+      {
+        "id": "1",
+        "title": "Children of the Corn",
+        "runtime": "108",
+        "capacity": 30,
+        "showtime": "11:00AM",
+        "tickets_sold": 5,
+        "description": "A young couple is trapped in a remote town where a dangerous religious cult of children believes that everyone over age 18 must be killed.",
+        "poster": "images/children of the corn.jpeg"
+      },
+      {
+        "id": "2",
+        "title": "John Wick 4",
+        "runtime": "90",
+        "capacity": 50,
+        "showtime": "01:45PM",
+        "tickets_sold": 4,
+        "description": "With the price on his head ever increasing, legendary hit man John Wick takes his fight against the High Table global as he seeks out the most powerful players in the underworld, from New York to Paris to Japan to Berlin.",
+        "poster": "images/download.jpeg"
+      },
+      {
+        "id": "3",
+        "title": "Evil Dead Rise",
+        "runtime": "120",
+        "capacity": 50,
+        "showtime": "02:30PM",
+        "tickets_sold": 10,
+        "description": "A reunion between two estranged sisters gets cut short by the rise of flesh-possessing demons, thrusting them into a primal battle for survival as they face the most nightmarish version of family imaginable.",
+        "poster": "images/evil dead rise.jpeg"
+      },
+      {
+        "id": "4",
+        "title": "Munjya",
+        "runtime": "150",
+        "capacity": 50,
+        "showtime": "05:00PM",
+        "tickets_sold": 15,
+        "description": "A young man's visit to his native village unveils a family secret and a vengeful spirit, the Munjya, who wants to get married. Now the young man must fight to protect himself and his love from Munjya's clutches",
+        "poster": "images/munjya.jpeg"
+      },
+      {
+        "id": "5",
+        "title": "No One Gets Out Alive",
+        "runtime": "120",
+        "capacity": 40,
+        "showtime": "08:15PM",
+        "tickets_sold": 10,
+        "description": "Desperate and without documentation, a woman from Mexico moves into a rundown Cleveland boarding house. Then the unsettling cries and eerie visions begin.",
+        "poster": "images/no one gets out alive.jpeg"
+      },
+      {
+        "id": "6",
+        "title": "The Watchers",
+        "runtime": "150",
+        "capacity": 50,
+        "showtime": "11:30PM",
+        "tickets_sold": 10,
+        "description": "A 28-year-old artist gets stranded in an expansive, untouched forest in western Ireland. Finding shelter, she unknowingly becomes trapped alongside three strangers who are stalked by mysterious creatures every night.",
+        "poster": "images/the watchers.jpeg"
+      }
+    ]
+  }
+  
